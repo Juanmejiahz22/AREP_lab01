@@ -96,12 +96,13 @@ All notebooks were uploaded and executed successfully in an **AWS SageMaker Stud
 environment using the integrated **Visual Studio Code interface**.
 
 ### SageMaker Environment Overview
+
 <img width="1318" height="683" alt="image" src="https://github.com/user-attachments/assets/e8af5be9-bd95-48df-a20f-08a0beb4b25b" />
 
 ## Execution Evidence: Notebook 1
 # Linear Regression with One Feature
 
-Screenshots/ss book1.png
+<img width="1309" height="672" alt="image" src="https://github.com/user-attachments/assets/00c15275-1456-4c11-9851-83d65839e6f2" />
 
 ## Execution Evidence: Notebook 2
 # Polynomial Regression with Interaction Terms
@@ -134,6 +135,7 @@ Executing the models in AWS SageMaker shows the role of cloud platforms as
 infrastructure for modern data-driven systems. The lab integrates theoretical
 understanding, practical implementation, and cloud execution into a complete
 workflow.
+
 
 
 
