@@ -103,6 +103,7 @@ environment using the integrated **Visual Studio Code interface**.
 # Linear Regression with One Feature
 
 <img width="1309" height="672" alt="image" src="https://github.com/user-attachments/assets/00c15275-1456-4c11-9851-83d65839e6f2" />
+<img width="1316" height="677" alt="image" src="https://github.com/user-attachments/assets/638feb04-bbee-4ba4-9dba-c9c54fae9a39" />
 
 ## Execution Evidence: Notebook 2
 # Polynomial Regression with Interaction Terms
@@ -135,6 +136,7 @@ Executing the models in AWS SageMaker shows the role of cloud platforms as
 infrastructure for modern data-driven systems. The lab integrates theoretical
 understanding, practical implementation, and cloud execution into a complete
 workflow.
+
 
 
 
