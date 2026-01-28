@@ -36,10 +36,10 @@ All models are implemented by explicitly defining:
 ---
 
 ## Repository Structure
--/
--├── README.md
--├── 01_part1_linreg_1feature.ipynb
--└── 02_part2_polyreg.ipynb
+- /
+- ├── README.md
+- ├── 01_part1_linreg_1feature.ipynb
+- └── 02_part2_polyreg.ipynb
 
 ---
 
@@ -152,4 +152,5 @@ Additionally, executing the models in AWS SageMaker reinforces the role of cloud
 platforms as foundational infrastructure for modern data-driven and enterprise
 systems. The lab successfully integrates theoretical understanding, practical
 implementation, and cloud-based execution into a coherent workflow.
+
 
