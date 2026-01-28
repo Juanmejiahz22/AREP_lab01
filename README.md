@@ -108,8 +108,7 @@ environment using the integrated **Visual Studio Code interface**.
 ## Execution Evidence: Notebook 2
 # Polynomial Regression with Interaction Terms
 
-Screenshot book 2
-
+<img width="1311" height="677" alt="image" src="https://github.com/user-attachments/assets/52ee44f8-a521-4000-9dad-a2ebef865209" />
 
 ## Local vs AWS SageMaker Execution Comparison
 
@@ -136,6 +135,7 @@ Executing the models in AWS SageMaker shows the role of cloud platforms as
 infrastructure for modern data-driven systems. The lab integrates theoretical
 understanding, practical implementation, and cloud execution into a complete
 workflow.
+
 
 
 
