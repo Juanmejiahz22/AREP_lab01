@@ -102,7 +102,7 @@ screenshot
 ## Execution Evidence: Notebook 1
 # Linear Regression with One Feature
 
-Screenshot book 1
+Screenshots/ss book1.png
 
 ## Execution Evidence: Notebook 2
 # Polynomial Regression with Interaction Terms
@@ -135,4 +135,5 @@ Executing the models in AWS SageMaker shows the role of cloud platforms as
 infrastructure for modern data-driven systems. The lab integrates theoretical
 understanding, practical implementation, and cloud execution into a complete
 workflow.
+
 
